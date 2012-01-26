@@ -1,0 +1,12 @@
+Latex notes compiler...
+
+
+To compile a pdf document run:
+> make
+
+To create a new note from a template, simply run:
+> make new
+
+this will create a new .tex document in ./notes/ with the current date in the filename
+
+
